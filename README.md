@@ -1,8 +1,8 @@
-<# Olá, eu sou Viana 👋
+# Olá, eu sou VIANA 👋
 
-🎓 Acadêmico, formando do curso de Ciência dos Dados pela UFMS, Licenciado em Computação pela UNIASSELVI.
-🔬 Interesse em Inteligência Artificial, Saúde Pública, Epidemiologia e Dados Abertos  
-💻 Desenvolvendo projetos com Python, R, Machine Learning e Deep Learning  
+🎓 Acadêmico concluinte em Ciência dos Dados pela UFMS e licenciado em Computação pela UNIASSELVI.  
+🔬 Tenho interesse em Inteligência Artificial, Ciência de Dados, Saúde Pública, Epidemiologia e Dados Abertos.  
+💻 Desenvolvo projetos utilizando Python, R, Machine Learning, Deep Learning e análise de dados.  
 
 ## Áreas de Interesse
 
