@@ -1,16 +1,18 @@
-## Hi there 👋
+<# Olá, eu sou Viana 👋
 
-<!--
-**OpenScienceTechnology/OpenScienceTechnology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Acadêmico, formando do curso de Ciência dos Dados pela UFMS, Licenciado em Computação pela UNIASSELVI.
+🔬 Interesse em Inteligência Artificial, Saúde Pública, Epidemiologia e Dados Abertos  
+💻 Desenvolvendo projetos com Python, R, Machine Learning e Deep Learning  
 
-Here are some ideas to get you started:
+## Áreas de Interesse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 Artificial Intelligence — AI
+- 🧠 Machine Learning — ML
+- 🧠 Deep Learning — DL
+- 🧬 Neural Networks
+- 🧬 Artificial Neural Networks — ANNs
+- 🧬 Recurrent Neural Networks — RNNs
+- 🧠 Natural Language Processing — NLP
+- 📊 Data Science
+- 🐍 Python
+- 📈 R
